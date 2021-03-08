@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 28 02:16:25 2019
-@author: hp
-"""
+
 
 import cv2
 import numpy as np
